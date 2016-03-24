@@ -8,6 +8,4 @@
 
 ### The code
 
-Go to [https://github.com/bapplejax/HTMLIntroductory/blob/master/archives/Exercises.zip](this guy!)
-
-Go to [http://foundry.mediumra.re/home-winery.html](http://foundry.mediumra.re/home-winery.html)
+Go to [https://github.com/bapplejax/HTMLIntroductory/master/archives/Exercises.zip](this guy!)
