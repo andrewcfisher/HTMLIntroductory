@@ -11,6 +11,7 @@
 * [https://bootstrapbay.com/blog/bootstrap-3-carousel-tutorial/](https://bootstrapbay.com/blog/bootstrap-3-carousel-tutorial/)
 * [http://www.w3schools.com/bootstrap/bootstrap_carousel.asp](http://www.w3schools.com/bootstrap/bootstrap_carousel.asp)
 * [http://www.bootply.com/](http://www.bootply.com/)
+* [http://startbootstrap.com/bootstrap-resources/](http://startbootstrap.com/bootstrap-resources/)
 
 ### The code
 
