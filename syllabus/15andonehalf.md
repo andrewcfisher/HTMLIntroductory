@@ -15,4 +15,4 @@
 
 ### The code
 
-Go to [this guy!](https://github.com/AustinCodingAcademy/HTMLIntroductory/blob/master/archives/14/exercise/Exercises.zip)
+Go to [this guy!](https://github.com/AustinCodingAcademy/HTMLIntroductory/["archives", "14", "exercise"]/Exercises.zip)
