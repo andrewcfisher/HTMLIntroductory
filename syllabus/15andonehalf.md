@@ -8,4 +8,4 @@
 
 ### The code
 
-Go to [this guy!](https://github.com/bapplejax/HTMLIntroductory/master/archives/Exercises.zip)
+Go to [this guy!](https://github.com/AustinCodingAcademy/HTMLIntroductory/blob/master/archives/14/exercise/Exercises.zip)
